@@ -1,0 +1,7 @@
+*.o
+*.obj
+*.out
+*.exe
+a.out
+*.gch
+.DS_Store
